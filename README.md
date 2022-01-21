@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @markmull941
-- 👀 I’m interested in coding! 
+- 👋 Hi, I’m @markmull941    I happily live in beautiful Sarasota, FL. 
+- 👀 I’m interested in coding & gardening
 - 🌱 I’m currently learning HTML/CSS & JAVA.  
 - 💞️ I’m looking to collaborate on learning! 
 - 📫 How to reach me mark@lushveg.com 
